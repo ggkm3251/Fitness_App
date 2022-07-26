@@ -38,7 +38,7 @@ Clients can view a large number of list containing different exercise manuovers 
 
 ## Contacts
 If you have any questions, comments or correctional advice, feel free to contact me:
-- Github: (https://github.com/ggkm3251)
+- Github: [@ggkm3251](https://github.com/ggkm3251)
 - Email: (glennkamau2@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/glenn-mwangi-a52b52218/)
-- Twitter: (https://twitter.com/GlennKamau)
+- LinkedIn: [@GLENN MWANGI](https://www.linkedin.com/in/glenn-mwangi-a52b52218/)
+- Twitter: [@Glenn Kamau](https://twitter.com/GlennKamau)
