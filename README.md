@@ -35,5 +35,10 @@ $ Make changes where need be.
 ## How it works
 Clients can view a large number of list containing different exercise manuovers and view the how-to-guide on youtube via clicking the lists.
 
+
 ## Contacts
-If you have any questions, comments or correctional advice, feel free to contact me @glennkamau2@gmail.com
+If you have any questions, comments or correctional advice, feel free to contact me:
+- Github: (https://github.com/ggkm3251)
+- Email: (glennkamau2@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/glenn-mwangi-a52b52218/)
+- Twitter: (https://twitter.com/GlennKamau)
