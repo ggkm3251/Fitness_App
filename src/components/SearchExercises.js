@@ -38,19 +38,17 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
 
   return (
     <Stack >
-      <Typography>
-        Exercise Begins With <br /> Only One Move
-      </Typography>
-      <Box position="relative" mb="72px" sx={{ pl: 40, }}>
+      
+      <Box position="relative" mb="72px" mt='10px'>
         <TextField
           height="76px"
-          sx={{ input: { fontWeight: '700', border: 'none', borderRadius: '4px' }, backgroundColor: '#fff', borderRadius: '40px' }}
+          sx={{ input: { fontWeight: '700', border: 'none', borderRadius: '4px' }, width: { lg: '1170px', xs: '350px' }, backgroundColor: '#fff', borderRadius: '40px' }}
           value={search}
           onChange={(e) => setSearch(e.target.value.toLowerCase())}
           placeholder="Search Exercises"
           type="text"
         />
-        <Button className="search-btn" sx={{ pl: -16, bgcolor: '#4BB543 ', color: '#fff', textTransform: 'none', height: '56px', position: 'relative', right: '0px', fontSize: { lg: '20px', xs: '14px' } }} onClick={handleSearch}>
+        <Button className="search-btn" sx={{ bgcolor: '#4BB543 ', color: '#fff', textTransform: 'none', width: { lg: '173px', xs: '80px' }, height: '56px', position: 'absolute', right: '0px', fontSize: { lg: '20px', xs: '14px' } }} onClick={handleSearch}>
           Search
         </Button>
       </Box>
